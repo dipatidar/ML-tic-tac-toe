@@ -8,10 +8,10 @@ As a project coursework, set of classification and a set of regression algorithm
 A comparative study of the performance has been attached in the project report.
 
 # Problem Statement
-The Problem statement will be found at [here](https://github.com/dipatidar/ML-tic-tac-toe/blob/main/PartI_classifiersRegressors.pdf).
+The Problem statement is described [here](https://github.com/dipatidar/ML-tic-tac-toe/blob/main/PartI_classifiersRegressors.pdf).
 
 # Report
-Please visit [here](https://github.com/dipatidar/ML-tic-tac-toe/blob/main/Report.pdf)
+Report can be found [here](https://github.com/dipatidar/ML-tic-tac-toe/blob/main/Report.pdf)
 
 
 ## Contributors
